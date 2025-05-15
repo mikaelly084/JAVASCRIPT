@@ -1,0 +1,13 @@
+
+div p{
+    background-color: rgb(252, 138, 9);
+    width: 300px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid rgba(0, 0, 0, 0.61);
+    box-shadow: 10px ;
+    margin: auto;
+    margin-top: 420px;
+}
