@@ -1,0 +1,16 @@
+.classe1{
+    width: 80px;
+    height: 50px;
+    padding: 100px;
+    border: 200px color(rgb(228, 231, 14));
+}
+.classe2{
+    background-color: gray;
+    color: deeppink;
+}
+
+.classe3{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 14px;
+}
