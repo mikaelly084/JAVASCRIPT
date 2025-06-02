@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&display=swap');
+
+body{
+    font-family: "Caprasimo", serif;
+    min-height: 100vh;
+    background-color: brown;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #DADFE8;
+}
+
+.pokedex{
+    background-color: rgb(252, 252, 252);
+    display: flex;
+    gap: 30px;
+    padding: 30px;
+}
